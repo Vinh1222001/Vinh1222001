@@ -1,5 +1,15 @@
-### Hi there 👋
+## HI THERE, WELCOME TO MY PAGE 👋👋
 
+I am a final year student at **Ho Chi Minh City University of Technology** majoring in **Computer Engineering 💻**. 
+
+Currently, I am seeking internship opportunities in positions such as ***Embedded Developer Intern***, ***Embedded Software Engineer Intern***, ***IoT Developer Intern*** or related positions. 
+
+My moderate enthusiasm for learning helps me adapt to new technologies, while my logical thinking supports problem-solving. Additionally, my average English skills allow me to communicate adequately within teams. Committed to working at least 20 hours per week, I'm excited about the chance to apply my skills and grow with your business.
+
+## 📫 How to reach me
+📧 <nguyentuanvinh1222@gmail.com>
+
+## View my projects below 👇👇
 <!--
 **Vinh1222001/Vinh1222001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
